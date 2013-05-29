@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
-x = 1 
-while x > 0:
+#edited by metulburr
+
+x = 0
+while True:
 	print(x)
-	x=x+1
+	x += 1
